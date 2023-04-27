@@ -1,0 +1,3 @@
+Page 2 added from the local repository
+
+and being committed
